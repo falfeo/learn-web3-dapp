@@ -10,7 +10,7 @@ Following along with the [Figment Learn Pathways](https://learn.figment.io/pathw
 
 Learn more about [Figment](https://figment.io/)."
 
-# 💻 Running the development server
+## 💻 Running the development server
 
 Start the Next.js development server on the default port 3000 with:
 
