@@ -1,4 +1,4 @@
-# Figment learing path
+# Figment learning path
 
 Code following course "Learn the Web 3 basics with our 101 Pathways".
 
