@@ -1,6 +1,8 @@
-# From original figment README
+# Figment learing path
 
-### 🤔 What is `learn-web3-dapp`?
+Code following course "Learn the Web 3 basics with our 101 Pathways".
+
+From the original description of course:
 
 "We made this decentralized application (dApp) to help developers learn about Web 3 protocols. It uses TypeScript, React, and various smart contract languages.
 
